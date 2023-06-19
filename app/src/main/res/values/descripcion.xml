@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="descripcion">
+                <item>HISTORIA</item>
+        <item>diametro </item>
+        <item>Composición de la atmósfera</item>
+    </string-array>
+</resources>
